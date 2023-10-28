@@ -36,7 +36,7 @@ if (lista >= 7 && lista <= 10) {
 } else {
     if (isNaN(lista)) {
     lista= 0
-        alert(`No me quedan picadores disponibles por el valor de ${lista} USD.`)
+        alert(`No me quedan picadores disponibles por el valor de ${lista} USD. Proximamente contaremos con stock.`)
         }
     alert(`No me quedan picadores disponibles por el valor de ${lista} USD.`)
 
